@@ -29,7 +29,6 @@ body    {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* debug */
     background-color: brown
 }
 
