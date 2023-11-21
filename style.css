@@ -21,14 +21,14 @@ body    {
     flex-wrap: wrap;
     gap: 5px;
     justify-content: center;
-    /* debug */
-    height: 500px;
-    border: 2px solid white;
 }
 
 .box    {
     width: calc(100% / 7 - 10px);
     aspect-ratio: 1 / 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     /* debug */
     background-color: brown
 }
