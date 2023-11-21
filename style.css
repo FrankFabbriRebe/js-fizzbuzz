@@ -32,3 +32,15 @@ body    {
     /* debug */
     background-color: brown
 }
+
+.fizz   {
+    background-color: green;
+}
+
+.buzz   {
+    background-color: lightskyblue;
+}
+
+.fizz_buzz  {
+    background-color: black;
+}
